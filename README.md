@@ -17,13 +17,11 @@
 
 🖊️ 各大平台主页：[掘金](https://juejin.cn/user/325111170756279/posts)、[segmentfault](https://segmentfault.com/u/jiejiaoxiaolin/articles)、[知乎](https://www.zhihu.com/people/wang-lin-49-43-65/posts)、[CSDN](https://blog.csdn.net/sinat_33488770?type=blog)、[开源中国](https://my.oschina.net/u/4592513)、[博客园](https://www.cnblogs.com/wanglinmantan/)、[阿里云开发者社区](https://developer.aliyun.com/profile/expert/b4yftxgi3elg4)
 
-🏷️ 标签：个人ping'tai'kai'fa'zhe
+🏷️ 标签：个人平台开发者
 
 📧 邮箱：997174616@qq.com
 
-⭐ 公众号：理想青年实验室（二维码↓）
 
-![](http://assets.lxqnsys.com/WechatIMG875%20%284%29.png)
 
 💡 一些有意思的小项目 ↓
 
