@@ -13,7 +13,7 @@
 
 👨‍💻 男，90后，3年+前端搬砖工，热爱前端及开源。
 
-💻 个人网站：升级中
+💻 个人网站：https://chenshuaifeng110.github.io/brick-snail-blog/
 
 🖊️ 各大平台主页：
 
